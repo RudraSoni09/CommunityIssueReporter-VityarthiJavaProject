@@ -48,4 +48,6 @@ The application must be run from the project root directory (`CIRPAnalyzerProjec
 
 ---
 
-## 📂 Repository Structure
+AUTHOR:
+Rudra Soni
+(24BCE10631)
