@@ -1,1 +1,39 @@
-Compiled Java Class FilesIgnore all compiled output.classsrc/.classbin/out/IDE and Environment Files (VS Code, IntelliJ).vscode/.DS_Store*.log*~Database and Persistence Files (CRITICAL to ignore)H2 Embedded Database Filescommunity_h2_db.*File I/O Serialization BackupCOMPLAINT_DATA_BACKUP.bin
+# -----------------------------------------------------------
+# 1. Compiled Java Class Files (Crucial for Compliance)
+# -----------------------------------------------------------
+*.class
+# Ignored compiled classes if they end up in the source folder
+src/*.class
+
+# Common Java Artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Database and Persistence Files (CRITICAL to ignore)
+# H2 Embedded Database Files
+community_h2_db.*
+
+# File I/O Serialization Backup
+COMPLAINT_DATA_BACKUP.bin
+
+# -----------------------------------------------------------
+# 2. Environment and IDE Specific Files
+# -----------------------------------------------------------
+# VS Code specific settings
+.vscode/
+
+# Build and Temp Directories
+bin/
+tmp/
+out/
+
+# Log files
+*.log
+*~
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
