@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/rudrasoni/Downloads/h2/bin/h2-2.4.240.jar"
+    ]
+}

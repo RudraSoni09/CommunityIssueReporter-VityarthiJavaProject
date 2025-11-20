@@ -1,0 +1,1 @@
+Compiled Java Class FilesIgnore all compiled output.classsrc/.classbin/out/IDE and Environment Files (VS Code, IntelliJ).vscode/.DS_Store*.log*~Database and Persistence Files (CRITICAL to ignore)H2 Embedded Database Filescommunity_h2_db.*File I/O Serialization BackupCOMPLAINT_DATA_BACKUP.bin
