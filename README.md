@@ -46,10 +46,21 @@ The application must be run from the project root directory (`CIRPAnalyzerProjec
     java -cp ".:lib/*" src.CIRPAnalyzer
     ```
 
-    Repository Structure
+   Repository Structure
 
+CIRPAnalyzerProject/
+├── src/
+│   ├── CIRPAnalyzer.java
+│   └── ComplaintManager.java
+│   └── ... (All other .java files)
+├── lib/
+│   └── h2-*.jar
+├── README.md                
+├── .gitignore
+├── LICENSE
+├── /screenshots/            
+└── /recordings/             
 
----
 
 AUTHOR:
 Rudra Soni
