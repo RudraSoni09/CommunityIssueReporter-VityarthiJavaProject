@@ -8,7 +8,7 @@ The system's core function is to provide immediate operational insight by runnin
 
 ---
 
-## 🏗️ Technical Architecture & Key Achievements
+##  Technical Architecture & Key Achievements
 
 The project follows a clear, layered architecture (Separation of Concerns):
 
@@ -28,7 +28,7 @@ This component is the heart of the system, responsible for all data management:
 
 ---
 
-## 🚀 Compilation and Execution Instructions
+##  Compilation and Execution Instructions
 
 The application must be run from the project root directory (`CIRPAnalyzerProject/`).
 
